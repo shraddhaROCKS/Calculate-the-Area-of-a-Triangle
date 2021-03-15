@@ -3,7 +3,7 @@ creating a repository  {calculate the area of traingle}
 
 # Python Program to find the area of triangle
 # s = (a+b+c)/2
-# area = √(s(s-a)*(s-b)*(s-c))
+# area = √(s*(s-a)*(s-b)*(s-c))
 
 a = 5
 b = 6
